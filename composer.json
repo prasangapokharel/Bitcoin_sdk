@@ -1,6 +1,6 @@
 {
-    "name": "your-vendor/bitcoin-sdk",
-    "description": "A comprehensive PHP SDK for Bitcoin-related functionalities",
+    "name": "bitcoin-sdk/bitcoin-sdk",
+        "description": "A comprehensive PHP SDK for Bitcoin-related functionalities",
     "version": "1.0.0",
     
     "type": "library",
